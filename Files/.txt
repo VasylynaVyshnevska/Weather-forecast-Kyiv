@@ -4,3 +4,4 @@ git add - makes untreaked files treaked
 git commit - saves new changes
 git push - sends changes to remote repo
 git pull - updates changes on local pc
+git branch name - creates new branch
